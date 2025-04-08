@@ -1,0 +1,28 @@
+.diagnosis-bg {
+    background: url('../images/ecg.gif') no-repeat center center fixed;
+    background-size: cover;
+    /* width: 100vw;
+    height: 100vh; */
+}
+
+.diagnosis-text{
+    color: #2DAA9E;
+}
+
+.diagnosis-text:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.voice-btn, .predict-btn, .trans-btn, .speak-btn {
+    padding: 8px 0px;
+    border-radius: 15px;
+    border: none;
+    background-color: #2DAA9E;
+    color: white;
+    transition: box-shadow 0.3s ease; /* Smooth hover effect */
+}
+
+.voice-btn:hover, .predict-btn:hover, .trans-btn:hover, .speak-btn:hover {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}

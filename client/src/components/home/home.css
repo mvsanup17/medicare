@@ -1,0 +1,48 @@
+.bg-img {
+    background-image: url("../images/medicine.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.heart-img {
+    height: 300px; 
+    animation: fadeInOut 3s infinite;
+}
+
+
+@keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+.text-link{
+    text-decoration: none;
+    color: #578FCA;
+    font-weight: 500;
+}
+
+.bg-col{
+    background-color: #B6FFFA;
+}
+
+.img-css{
+    border-radius: 15px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.img-css:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.text-dec:hover{
+    text-decoration: underline;
+    text-decoration-color: #135D66;
+}

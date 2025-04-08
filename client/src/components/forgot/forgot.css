@@ -1,0 +1,29 @@
+.forgot-text{
+    color: #2DAA9E;
+}
+
+.reset-btn{
+    padding: 8px 0px 8px 0px;
+    border-radius: 15px;
+    border: none;
+    background-color: #2DAA9E;
+    color : white;
+}
+
+.reset-btn:hover{
+    padding: 8px 0px 8px 0px;
+    border-radius: 15px;
+    border: none;
+    background-color: #2DAA9E;
+    color : white;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.forgot-bg {
+    background: linear-gradient(to right, #2c5364, #0f2027, #1c92d2);
+    height: 100vh; /* Ensure it takes the full viewport height */
+    width: 100vw; /* Ensure it takes the full viewport width */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

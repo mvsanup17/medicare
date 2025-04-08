@@ -1,0 +1,38 @@
+Symptoms,Disease,Medication,Best Doctor in India,Diet Plan
+"Fever, Cough, Fatigue",Flu,"Paracetamol, Ibuprofen",Dr. Randeep Guleria (Pulmonologist),"Hydration, Vitamin C, Light meals"
+"Chest Pain, Shortness of breath",Heart Disease,"Aspirin, Beta-blockers",Dr. Naresh Trehan (Cardiologist),"Low-fat diet, Green vegetables"
+"High Blood Sugar, Frequent Urination",Diabetes,"Metformin, Insulin",Dr. V. Mohan (Endocrinologist),"Low-carb diet, High fiber"
+"Severe Headache, Nausea",Migraine,"Triptans, Pain relievers",Dr. Ashok Sinha (Neurologist),"Avoid caffeine, Stay hydrated"
+"Weight Loss, Night Sweats",Tuberculosis,"Isoniazid, Rifampin",Dr. Rajesh Chawla (Pulmonologist),
+"Joint Pain, Swelling",Arthritis,"NSAIDs, DMARDs",Dr. Shashank Akerkar (Rheumatologist),"Omega-3 rich foods, Exercise"
+"Skin Rash, Itching",Allergy,"Antihistamines, Steroids",Dr. P. K. Vedanthan (Dermatologist),"Avoid allergens, Vitamin C"
+"Severe Abdominal Pain, Nausea",Appendicitis,Surgery required,Dr. Arvind Kumar (Surgeon),
+"Throat Pain, Difficulty Swallowing",Tonsillitis,"Antibiotics, Pain relievers",Dr. Atul Mittal (ENT Specialist),"Warm fluids, Soft foods"
+Burning Sensation while Urinating,Urinary Tract Infection,Antibiotics,Dr. Shubham Jain (Urologist),Increase water intake
+"Persistent Cough, Blood in Mucus",Lung Cancer,"Chemotherapy, Radiation",Dr. S. H. Advani (Oncologist),
+"Memory Loss, Confusion",Alzheimer’s,Cholinesterase inhibitors,Dr. Manjari Tripathi (Neurologist),
+Pain in the Lower Right Abdomen,Kidney Stones,"Pain relievers, Lithotripsy",Dr. Anant Kumar (Urologist),Increase fluid intake
+"Unexplained Weight Loss, Fatigue",Thyroid Disorder,"Levothyroxine, Methimazole",Dr. Ambrish Mithal (Endocrinologist),
+"Irregular Heartbeat, Dizziness",Arrhythmia,"Beta-blockers, Calcium channel blockers",Dr. Balbir Singh (Cardiologist),
+"Chronic Fatigue, Depression",Anemia,"Iron Supplements, Vitamin B12",Dr. Prathap Reddy (Hematologist),"Iron-rich foods, Green leafy vegetables"
+"Shortness of Breath, Wheezing",Asthma,"Inhalers, Bronchodilators",Dr. Vivek Nangia (Pulmonologist),"Avoid allergens, Steam inhalation"
+"Blurred Vision, Eye Pain",Glaucoma,"Eye drops, Surgery",Dr. Mahipal Sachdev (Ophthalmologist),
+"Severe Stomach Pain, Bloating",Gastritis,"Antacids, Proton Pump Inhibitors",Dr. Ajay Kumar (Gastroenterologist),"Avoid spicy food, Eat smaller meals"
+"Extreme Tiredness, Pale Skin",Vitamin D Deficiency,Vitamin D supplements,Dr. R. K. Sharma (Endocrinologist),"Sunlight exposure, Dairy products"
+"Chronic Back Pain, Stiffness",Spondylitis,"Pain relievers, Physiotherapy",Dr. Ram Chaddha (Orthopedic Surgeon),"Regular exercise, Posture correction"
+"Sudden High Fever, Vomiting",Dengue,"Paracetamol, Hydration therapy",Dr. T. Jacob John (Virologist),"Plenty of fluids, Papaya leaf extract"
+"Frequent Cold, Weak Immune System",Immunodeficiency,Immunoglobulin Therapy,Dr. N. K. Mehra (Immunologist),
+"Severe Joint Pain, Redness",Gout,"NSAIDs, Corticosteroids",Dr. Hemant Thacker (Rheumatologist),"Low-purine diet, Hydration"
+"Skin Patches, Numbness",Leprosy,Multidrug Therapy,Dr. Vivek Nangia (Dermatologist),
+"Prolonged Sadness, Loss of Interest",Depression,"SSRIs, Therapy",Dr. Samir Parikh (Psychiatrist),
+"Tremors, Slow Movement",Parkinson’s Disease,"Levodopa, Dopamine Agonists",Dr. Paresh Doshi (Neurologist),
+"Bone Fracture, Severe Pain",Osteoporosis,"Calcium, Bisphosphonates",Dr. Ramesh Sen (Orthopedic Surgeon),"Calcium-rich foods, Weight-bearing exercise"
+"Severe Itching, Red Spots",Chickenpox,"Antivirals, Antihistamines",Dr. Puneet Dewan (Infectious Disease Specialist),"Hydration, Oatmeal baths"
+"Unexplained Bleeding, Bruising",Leukemia,"Chemotherapy, Radiation",Dr. Suresh Advani (Oncologist),
+"Seizures, Uncontrolled Movements",Epilepsy,Antiepileptic drugs,Dr. V. P. Singh (Neurologist),
+"Dark Urine, Jaundice",Hepatitis B,Antiviral Medications,Dr. A. K. Sood (Hepatologist),"Healthy liver diet, Avoid alcohol"
+"Memory Loss, Confusion, Forgetting Everything",Alzheimer's,"Donepezil, Memantine",Dr. P. Satish Chandra (Neurologist),"Mediterranean diet, Omega-3 rich foods"
+"Fever, Headache, Muscle Pain, Nausea",Dengue,"Paracetamol, Hydration therapy",Dr. T. Jacob John (Virologist),"Plenty of fluids, Papaya leaf extract"
+"Persistent Sadness, Lack of Interest, Fatigue",Depression,"SSRIs, Therapy",Dr. Prerna Kohli (Psychologist),"High-protein foods, Omega-3 fatty acids"
+"Joint Pain, Morning Stiffness, Swelling",Rheumatoid Arthritis,"NSAIDs, DMARDs",Dr. A.N. Malaviya (Rheumatologist),"Anti-inflammatory diet, Omega-3 rich foods"
+"High Blood Pressure, Headache, Fatigue",Hypertension,"ACE Inhibitors, Beta-blockers",Dr. Sandeep Seth (Cardiologist),"Low sodium diet, High potassium foods"

@@ -1,0 +1,32 @@
+.bar{
+    background-color: #3887BE;
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    cursor: default;
+}
+
+.dropdown-item:hover{
+    background-color: #66D2CE;
+}
+
+@media (max-width: 990px) {
+    .sidebar {
+        background-color: #DAFFFB;
+    }
+
+    .nav-link{
+        color: black;
+    }
+
+    .dropdown-item:hover{
+        background-color: #66D2CE;
+    }
+
+
+
+}
