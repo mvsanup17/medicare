@@ -48,6 +48,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 from thefuzz import process
 import warnings
+import os
 
 
 # Suppress Levenshtein warning
@@ -312,4 +313,5 @@ def predict():
 #     return jsonify({"voice_symptoms": text})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Default to 5000 if PORT not set
+    app.run(host="0.0.0.0", port=port)
