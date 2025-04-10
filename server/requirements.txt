@@ -36,7 +36,7 @@ Flask-Mail==0.10.0
 Flask-PyMongo==3.0.1
 fonttools==4.37.3
 fsspec==2024.10.0
-fuzzywuzzy==0.18.0
+thefuzz[speedup]
 googletrans==4.0.0rc1
 gTTS==2.5.4
 gunicorn==23.0.0
