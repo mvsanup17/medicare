@@ -72,10 +72,10 @@ murmurhash==1.0.12
 nest-asyncio==1.5.8
 networkx==3.4.2
 nltk==3.9.1
-numpy==1.22.3
+numpy
 openpyxl==3.1.5
 packaging==21.3
-pandas==1.4.2
+pandas
 parso==0.8.3
 Pillow==9.2.0
 pipwin==0.5.2
