@@ -46,7 +46,7 @@ import numpy as np
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
-from fuzzywuzzy import process
+from thefuzz import process
 import warnings
 
 
