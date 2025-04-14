@@ -67,7 +67,7 @@ app.config["MAIL_PORT"] = 587
 app.config["MAIL_USE_TLS"] = True
 app.config["MAIL_USERNAME"] = "iamvsanup@gmail.com"  
 app.config["MAIL_PASSWORD"] = "qind hkxy dzbi czqm"  
-
+CORS(app, origins=["https://medicare-project-mern.netlify.app"], methods=["GET", "POST"], allow_headers=["Content-Type"])
 
 bcrypt = Bcrypt(app)
 jwt = JWTManager(app)
